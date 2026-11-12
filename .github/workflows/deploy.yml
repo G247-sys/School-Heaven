@@ -1,0 +1,3 @@
+- uses: actions/checkout@v7.0.1
+  with:
+    submodules: false
